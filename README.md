@@ -409,7 +409,7 @@ health = integration.get_integration_health()
         'total_edges': 1200
     },
     'status': 'active',
-    'last_activity': '2024-01-15T10:30:00Z'
+    'last_activity': '2025-08-15T10:30:00Z'
 }
 ```
 
